@@ -28,7 +28,7 @@ const Sammy = {
   currentlyLearning: Javascript,
   lookingFor: "Front-end development opportunities" || "Full-stack web developement",
   techStack: [JavaScript, HTML/CSS,Bootstrap],
-  tools: [Github, Git, Figma],
+  tools: [Github, Git, Figma, Webpack],
   challenge: "Road to being the best by constantly improving my skills",
   askMeAbout: ["Front-End web dev", "Football"],
   telephoneNumber: "+254743793661",
