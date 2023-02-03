@@ -24,11 +24,10 @@
 ```javascript
 const Sammy = {
   fullName: "Towett Sammy",
+  Studies:Computer Science Degree,
   studentAt: "Microverse",
   currentlyLearning: Javascript,
   lookingFor: "Front-end development opportunities" || "Full-stack web developement",
-  techStack: [JavaScript, HTML/CSS,Bootstrap],
-  tools: [Github, Git, Figma, Webpack],
   challenge: "Road to being the best by constantly improving my skills",
   askMeAbout: ["Front-End web dev", "Football"],
   telephoneNumber: "+254743793661",
@@ -36,14 +35,19 @@ const Sammy = {
   "My Passion for tech keeps me going"]
 }
 ```
+### :hammer_and_wrench: Languages and Tools :  
+<p><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript"><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&amp;logo=netlify&amp;logoColor=#00C7B7" alt="Netlify"><img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt="NPM"><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&amp;logo=SASS&amp;logoColor=white" alt="SASS"><img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&amp;logo=webpack&amp;logoColor=black" alt="Webpack"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma"><img src = "https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"><img src ="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" /><img src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  
+</p>
 
-:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/towett-sammy-43476024a/)
+<h3 align="left" position ="relative">
+ <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></h3>
+<p align= "left" position = "absolute">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Sammy3000&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sammy3000&theme=react&layout=compact" />
+</p>
 
 
-
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sammy3000&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<p>You can check out my portfolio <a href="https://https://sammy3000.github.io//My-portfolio/">here</a><img src="https://media.giphy.com/media/xlQRcbI4n7oz79wICR/giphy.gif" width="30"></p>
 
 
