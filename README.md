@@ -48,6 +48,6 @@ const Sammy = {
 </p>
 
 
-<p>You can check out my portfolio <a href="https://https://sammy3000.github.io//My-portfolio/">here</a><img src="https://media.giphy.com/media/xlQRcbI4n7oz79wICR/giphy.gif" width="30"></p>
+<p>You can check out my portfolio <a href="Sammy3000.github.io//My-portfolio/">here</a><img src="https://media.giphy.com/media/xlQRcbI4n7oz79wICR/giphy.gif" width="30"></p>
 
 
