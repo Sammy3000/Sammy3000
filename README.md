@@ -46,8 +46,3 @@ const Sammy = {
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Sammy3000&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sammy3000&theme=react&layout=compact" />
 </p>
-
-
-<p>You can check out my portfolio <a href="Sammy3000.github.io">here</a><img src="https://media.giphy.com/media/xlQRcbI4n7oz79wICR/giphy.gif" width="30"></p>
-
-
