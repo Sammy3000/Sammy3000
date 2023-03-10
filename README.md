@@ -42,7 +42,5 @@ const Sammy = {
 
 <h3 align="left" position ="relative">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></h3>
-<p align= "left" position = "absolute">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Sammy3000&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sammy3000&theme=react&layout=compact" />
-</p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sammy3000&show_icons=true&include_all_commits=true&hide_border=true" alt="Towett's GitHub stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sammy3000&langs_count=8&layout=compact&hide_border=true" alt="Towett's GitHub stats" />
