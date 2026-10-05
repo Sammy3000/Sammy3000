@@ -23,11 +23,11 @@
  
 ```javascript
 const Sambu = {
-  fullName: "Margarete Sambu",
-  Studies:Computer Science Degree,
+  fullName: "Sammy Towett",
+  Studies: Computer Science Degree,
   studentAt: "Microverse",
-  currentlyLearning: Javascript,
-  lookingFor: "Front-end development opportunities" || "Full-stack web developement",
+  currentlyLearning: " JavaScript ",
+  lookingFor: "Front-end development opportunities" || "Full-stack web development",
   challenge: "Road to being the best by constantly improving my skills",
   askMeAbout: ["Front-End web dev", "Football"],
   funFacts: ["I love watching good movies and TV shows", 
